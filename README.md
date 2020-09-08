@@ -4,13 +4,13 @@ I'm Anton and I'm C++ developer with interests to digital image processing, comp
 
 ### Education
 
-Graduated as bachelor of applied math and informatics in Novosibirsk Technical State University in 2014.
+Graduated as Bachelor of Applied Math and Informatics in Novosibirsk Technical State University in 2014.
 
 ### Work experience
 
-I was started in 2014 as junior developer in [Movavi](movavi.com) and worked mostly on Video products for Windows and Mac using Qt/QML. In my way to senior position I was working on algorithms design and implementation for Photo Editor.
+I was started in 2014 as developer in [Movavi](movavi.com) and worked mostly on Video products for Windows and Mac using Qt/QML. In my way to senior position I was working on algorithms design and implementation for Photo Editor.
 
-Since 2018 I'm working for [Arrival](https://arrival.com/ in Computer Vision team of Robotics devision and solving problem of 6DOF object pose estimation.
+Since 2018 I'm working for [Arrival](https://arrival.com/) in Computer Vision team of Robotics devision and solving problem of 6DOF object pose estimation.
 
 ### Skills
 
