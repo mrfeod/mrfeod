@@ -15,8 +15,11 @@ Since 2018 I'm working for [Arrival](https://arrival.com/) in Computer Vision te
 ### Skills
 
 **Most used:** C++, Math, OpenCV
+
 **Usefull:** CMake, Git, Docker, Python, Jenkins, Linux
+
 **Also like:** Qt, FFmpeg, OpenGL, Windows
+
 **Can use:** JavaScript, Mac
 
 ### Hobby 
