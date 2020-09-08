@@ -10,7 +10,7 @@ At 2017 passed exam for Cambridge English Business Vantage Certificate.
 
 ### Work experience
 
-I was started in 2014 as developer in [Movavi](movavi.com) and worked mostly on Video products for Windows and Mac using Qt/QML. In my way to senior position I was working on algorithms design and implementation for Photo Editor.
+I started in 2014 as a developer in [Movavi](movavi.com) and worked mostly on Video products for Windows and Mac using Qt/QML. In my way to senior position I was working on algorithms design and implementation for Photo Editor.
 
 Since 2018 I'm working for [Arrival](https://arrival.com/) in Computer Vision team of Robotics devision and solving problem of 6DOF object pose estimation.
 
