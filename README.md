@@ -6,6 +6,8 @@ I'm Anton and I'm C++ developer with interests to digital image processing, comp
 
 Graduated as Bachelor of Applied Math and Informatics in Novosibirsk Technical State University in 2014.
 
+At 2017 passed exam for Cambridge English Business Vantage Certificate.
+
 ### Work experience
 
 I was started in 2014 as developer in [Movavi](movavi.com) and worked mostly on Video products for Windows and Mac using Qt/QML. In my way to senior position I was working on algorithms design and implementation for Photo Editor.
